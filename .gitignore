@@ -1,0 +1,38 @@
+# Datasets and archives
+datasets/
+cifar-10-batches-py/
+*.tar.gz
+*.tgz
+*.zip
+
+# Model weights and generated artifacts
+*.ckpt
+*.pth
+*.pt
+*.onnx
+checkpoints/
+results/
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter / Colab temporary files
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
