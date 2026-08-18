@@ -18,7 +18,7 @@
 ### Assignment 1
 
 - [x] k-Nearest Neighbor
-- [ ] Softmax Classifier
+- [x] Softmax Classifier
 - [ ] Two-Layer Neural Network
 
 ### Assignment 2
@@ -35,4 +35,4 @@
 - `assignment2/`：后续课程作业记录
 - `assignment3/`：后续课程作业记录
 
-目前仅整理已经完成的 kNN 部分；未完成部分只保留学习进度占位。
+目前已整理 kNN 与 Softmax Classifier；未完成部分只保留学习进度占位。
