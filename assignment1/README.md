@@ -4,7 +4,9 @@
 
 - [x] k-Nearest Neighbor
 - [x] Softmax Classifier
-- [ ] Two-Layer Neural Network
+- [x] Two-Layer Neural Network
+- [ ] Image Features
+- [ ] Multi-Layer Fully Connected Networks
 
 Assignment 1 是我从经典机器学习分类逐渐进入以下内容的实践过程：
 
@@ -15,4 +17,6 @@ Linear Classifier
 → Neural Network
 ```
 
-目前已整理完成 kNN 与 Softmax Classifier，其他内容将在实际学习完成后补充。
+目前已整理完成 kNN、Softmax Classifier 与 Two-Layer Neural Network。
+
+下一步：`features/`，使用 HOG 与颜色直方图等人工特征训练分类器。
