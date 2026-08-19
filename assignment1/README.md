@@ -6,7 +6,7 @@
 - [x] Softmax Classifier
 - [x] Two-Layer Neural Network
 - [x] Image Features
-- [ ] Multi-Layer Fully Connected Networks
+- [x] Multi-Layer Fully Connected Networks
 
 Assignment 1 是我从经典机器学习分类逐渐进入以下内容的实践过程：
 
@@ -17,6 +17,6 @@ Linear Classifier
 → Neural Network
 ```
 
-目前已整理完成 kNN、Softmax Classifier、Two-Layer Neural Network 与 Image Features。
+目前已整理完成 kNN、Softmax Classifier、Two-Layer Neural Network、Image Features 与 Multi-Layer Fully Connected Networks。
 
-下一步：`fully_connected_nets/`，实现多层全连接网络与常用优化算法。
+Assignment 1 已全部完成。下一步进入 Assignment 2，学习卷积网络、Normalization 和 Dropout。
