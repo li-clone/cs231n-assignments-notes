@@ -19,20 +19,29 @@
 
 - [x] k-Nearest Neighbor
 - [x] Softmax Classifier
-- [ ] Two-Layer Neural Network
+- [x] Two-Layer Neural Network
+- [ ] Image Features
+- [ ] Multi-Layer Fully Connected Networks
 
 ### Assignment 2
 
-- [ ] TODO
+- [ ] Batch Normalization
+- [ ] Dropout
+- [ ] Convolutional Networks
+- [ ] PyTorch
+- [ ] RNN Image Captioning (PyTorch)
 
 ### Assignment 3
 
-- [ ] TODO
+- [ ] Transformer Captioning
+- [ ] Self-Supervised Learning
+- [ ] Denoising Diffusion Probabilistic Models (DDPM)
+- [ ] CLIP and DINO
 
 ## Repository Structure
 
 - `assignment1/`：基础分类器、Loss、Gradient 与 Neural Network
-- `assignment2/`：后续课程作业记录
-- `assignment3/`：后续课程作业记录
+- `assignment2/`：归一化、正则化、CNN、PyTorch 与图像描述
+- `assignment3/`：Transformer、自监督学习、扩散模型与视觉基础模型
 
-目前已整理 kNN 与 Softmax Classifier；未完成部分只保留学习进度占位。
+目前已整理 kNN、Softmax Classifier 与 Two-Layer Neural Network；未完成部分只保留目录和学习计划，不包含预先完成的作业答案。
