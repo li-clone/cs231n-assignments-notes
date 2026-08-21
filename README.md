@@ -21,12 +21,12 @@
 - [x] Softmax Classifier
 - [x] Two-Layer Neural Network
 - [x] Image Features
-- [ ] Multi-Layer Fully Connected Networks
+- [x] Multi-Layer Fully Connected Networks
 
 ### Assignment 2
 
-- [ ] Batch Normalization
-- [ ] Dropout
+- [x] Batch Normalization
+- [x] Dropout
 - [ ] Convolutional Networks
 - [ ] PyTorch
 - [ ] RNN Image Captioning (PyTorch)
@@ -44,4 +44,4 @@
 - `assignment2/`：归一化、正则化、CNN、PyTorch 与图像描述
 - `assignment3/`：Transformer、自监督学习、扩散模型与视觉基础模型
 
-目前已整理 kNN、Softmax Classifier、Two-Layer Neural Network 与 Image Features；未完成部分只保留目录和学习计划，不包含预先完成的作业答案。
+Assignment 1 已全部完成；Assignment 2 已完成 Batch Normalization、Layer Normalization 与 Dropout。未完成部分只保留目录和学习计划，不包含预先完成的作业答案。
