@@ -28,7 +28,7 @@
 - [x] Batch Normalization
 - [x] Dropout
 - [x] Convolutional Networks
-- [ ] PyTorch
+- [x] PyTorch
 - [ ] RNN Image Captioning (PyTorch)
 
 ### Assignment 3
@@ -44,4 +44,4 @@
 - `assignment2/`：归一化、正则化、CNN、PyTorch 与图像描述
 - `assignment3/`：Transformer、自监督学习、扩散模型与视觉基础模型
 
-Assignment 1 已全部完成；Assignment 2 已完成 Batch Normalization、Layer Normalization、Dropout 与 Convolutional Networks。未完成部分只保留目录和学习计划，不包含预先完成的作业答案。
+Assignment 1 已全部完成；Assignment 2 已完成 Batch Normalization、Layer Normalization、Dropout、Convolutional Networks 与 PyTorch。未完成部分只保留目录和学习计划，不包含预先完成的作业答案。
