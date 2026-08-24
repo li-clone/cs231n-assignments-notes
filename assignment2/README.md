@@ -4,7 +4,7 @@
 
 - [x] Batch Normalization
 - [x] Dropout
-- [ ] Convolutional Networks
+- [x] Convolutional Networks
 - [ ] PyTorch
 - [ ] RNN Image Captioning (PyTorch)
 
