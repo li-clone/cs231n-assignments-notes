@@ -33,7 +33,7 @@
 
 ### Assignment 3
 
-- [ ] Transformer Captioning
+- [x] Transformer Captioning
 - [ ] Self-Supervised Learning
 - [ ] Denoising Diffusion Probabilistic Models (DDPM)
 - [ ] CLIP and DINO
@@ -44,4 +44,4 @@
 - `assignment2/`：归一化、正则化、CNN、PyTorch 与图像描述
 - `assignment3/`：Transformer、自监督学习、扩散模型与视觉基础模型
 
-Assignment 1 与 Assignment 2 已全部完成。Assignment 3 未完成部分只保留目录和学习计划，不包含预先完成的作业答案。
+Assignment 1 与 Assignment 2 已全部完成。Assignment 3 正在进行中；未完成部分只保留目录和学习计划，不包含预先完成的作业答案。
