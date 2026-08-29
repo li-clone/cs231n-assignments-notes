@@ -1,0 +1,13 @@
+{
+  "video": "soapbox",
+  "frames": 99,
+  "num_classes": 4,
+  "training_frame": 40,
+  "training_frame_iou": 1.0,
+  "mean_iou": 0.560885221067101,
+  "selected_frame_ious": {
+    "0": 0.35407397150993347,
+    "40": 1.0,
+    "98": 0.49131667613983154
+  }
+}
