@@ -1,0 +1,112 @@
+{
+  "without_pretrain": {
+    "best_top1": 16.689999999999998,
+    "history": [
+      {
+        "epoch": 1,
+        "train_top1": 10.639999999999999,
+        "test_top1": 13.719999999999999
+      },
+      {
+        "epoch": 2,
+        "train_top1": 10.9,
+        "test_top1": 14.45
+      },
+      {
+        "epoch": 3,
+        "train_top1": 12.76,
+        "test_top1": 9.959999999999999
+      },
+      {
+        "epoch": 4,
+        "train_top1": 12.32,
+        "test_top1": 11.110000000000001
+      },
+      {
+        "epoch": 5,
+        "train_top1": 12.879999999999999,
+        "test_top1": 12.950000000000001
+      },
+      {
+        "epoch": 6,
+        "train_top1": 12.18,
+        "test_top1": 15.790000000000001
+      },
+      {
+        "epoch": 7,
+        "train_top1": 13.34,
+        "test_top1": 14.27
+      },
+      {
+        "epoch": 8,
+        "train_top1": 13.020000000000001,
+        "test_top1": 12.26
+      },
+      {
+        "epoch": 9,
+        "train_top1": 14.24,
+        "test_top1": 12.86
+      },
+      {
+        "epoch": 10,
+        "train_top1": 13.120000000000001,
+        "test_top1": 16.689999999999998
+      }
+    ]
+  },
+  "with_pretrain": {
+    "best_top1": 82.57,
+    "history": [
+      {
+        "epoch": 1,
+        "train_top1": 65.28,
+        "test_top1": 77.42
+      },
+      {
+        "epoch": 2,
+        "train_top1": 75.22,
+        "test_top1": 78.66
+      },
+      {
+        "epoch": 3,
+        "train_top1": 76.48,
+        "test_top1": 80.08
+      },
+      {
+        "epoch": 4,
+        "train_top1": 76.28,
+        "test_top1": 80.33
+      },
+      {
+        "epoch": 5,
+        "train_top1": 77.4,
+        "test_top1": 80.73
+      },
+      {
+        "epoch": 6,
+        "train_top1": 77.72,
+        "test_top1": 81.42
+      },
+      {
+        "epoch": 7,
+        "train_top1": 78.3,
+        "test_top1": 81.67
+      },
+      {
+        "epoch": 8,
+        "train_top1": 78.92,
+        "test_top1": 82.05
+      },
+      {
+        "epoch": 9,
+        "train_top1": 78.4,
+        "test_top1": 82.57
+      },
+      {
+        "epoch": 10,
+        "train_top1": 78.5,
+        "test_top1": 82.42
+      }
+    ]
+  }
+}

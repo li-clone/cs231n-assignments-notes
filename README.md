@@ -34,7 +34,7 @@
 ### Assignment 3
 
 - [x] Transformer Captioning
-- [ ] Self-Supervised Learning
+- [x] Self-Supervised Learning
 - [ ] Denoising Diffusion Probabilistic Models (DDPM)
 - [ ] CLIP and DINO
 
